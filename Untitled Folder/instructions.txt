@@ -1,0 +1,10 @@
+first run the server program
+start the server by clicking the button "Start server"
+
+then run client program
+choose the desired option:upload or download file from server
+
+by 
+Nishanth.S and Shruthi.R
+CB.EN.U4AIE22149 , CB.EN.U4AIE22154
+Batch-B
